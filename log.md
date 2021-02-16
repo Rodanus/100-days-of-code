@@ -12,3 +12,10 @@
 **Today's Progress - Photozia Project**: 
 - Spent some time thinking about the design of the homepage.
 - Started designig the homepage. CSS coding for a while now :).
+
+
+### Day 2: February 16, 2021 
+
+**Today's Progress - Photozia Project**:
+- [Worked on a feature that sets the search section's background photo randomly on first page load.](https://github.com/Rodanus/pictures-grid/commit/4d882232d8e4e79bcbd6718a613cded65627d13e) 
+- [Worked on designing the search section. (Still working on it)](https://github.com/Rodanus/pictures-grid/commit/0578620ab924a5c526c1807bc6130beadc546a9c)

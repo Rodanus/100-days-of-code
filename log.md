@@ -25,3 +25,9 @@
 
 **Today's Progress - Photozia Project**:
 - [Worked on designing the search section.](https://github.com/Rodanus/pictures-grid/commit/db34d6a3c5cede9bd723b13ff87163aca84fccf8)
+
+
+### Day 4: February 18, 2021 
+
+**Today's Progress - Photozia Project**:
+- [Designed the photos list section. Where you see random photos for you to check](https://github.com/Rodanus/pictures-grid/commit/b946e8361a772c55315eecee8ca525eeb6b695f8).

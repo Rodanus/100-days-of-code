@@ -37,3 +37,8 @@
 
 **Today's Progress - Photozia Project**:
 - Added another page, the search results page where the results of what you searched for are displayed. Currently working on completing it.
+
+### Day 6: February 20, 2021 
+
+**Today's Progress - Photozia Project**:
+- Added some details to the results page.

@@ -42,3 +42,9 @@
 
 **Today's Progress - Photozia Project**:
 - Added some details to the results page.
+
+
+### Day 7: February 21, 2021 
+
+**Today's Progress - Photozia Project**:
+    (Working on it)

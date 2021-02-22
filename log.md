@@ -47,3 +47,9 @@
 ### Day 7: February 21, 2021 
 
  (Skipped)
+
+
+ ### Day 8: February 22, 2021 
+
+**Today's Progress - Photozia Project**:
+    (Working on it)

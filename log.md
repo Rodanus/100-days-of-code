@@ -13,3 +13,8 @@
  - Worked on several small changes.
  ### Other
  - [For the first ever, I participated in an issue on the official React repository and I was able to actually help with figuring out what the problem was 🤩.](https://github.com/facebook/react/issues/21533#issuecomment-856783404)
+
+
+## Day 2: June 8, 2021
+### Today's progress: Photozia Project
+ - Working on making images clickable so the user can have more options. 

@@ -18,3 +18,7 @@
 ## Day 2: June 8, 2021
 ### Today's progress: Photozia Project
  - Working on making images clickable so the user can have more options. 
+
+## Days 3-6
+### Progress: Photozia Project
+ - [The basic version of photos veiwing feature is ready. Planning took more time than I thought it would take :/](https://github.com/Rodanus/pictures-grid/commit/8a4fbc3c91012c36e2137f3365772d330c10175b)

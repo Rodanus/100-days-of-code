@@ -22,3 +22,10 @@
 ## Days 3-6
 ### Progress: Photozia Project
  - [The basic version of photos veiwing feature is ready. Planning took more time than I thought it would take :/](https://github.com/Rodanus/pictures-grid/commit/8a4fbc3c91012c36e2137f3365772d330c10175b)
+
+
+## Day 7
+### Progress: Photozia Project
+ - [Fixed a bug: The new feature (View Photo) wasn't working on the home page and an error would occur whenever you try to use it.](https://github.com/Rodanus/pictures-grid/commit/a2ee5dcc13c208bf5cdcfb3a6a720f88692a2b60)
+  
+  Currently half way through solving another bug.
